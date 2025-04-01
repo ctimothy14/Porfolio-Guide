@@ -13,4 +13,4 @@ This is where I document and practice my technical skills where I have learned f
 # Python
 | Project Link | Project Description | Dashboard Link
 |---|---|---|
-||In progress|
+|[Amazon_products_2023_EDA](https://github.com/ctimothy14/Amazon_products_2023/blob/main/amazon_products.ipynb) | Perform exploratory data analysis finding insights on sales Performance Across Categories, assess the Impact of Customer Ratings & reviews on Sale, determine Profitable Niches. |In progress|
